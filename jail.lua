@@ -10,6 +10,21 @@ jail = require("jail")
 
 on player/base.lua and server.lua
 
+
+
+PLEASE PUT THIS SHIT ALONE SOMEWHERE IN server.lua OR ELSE THIS WILL ALL GO TO SHIT! THANKS! 
+
+
+function UnjailPlayer(pid)
+    jail.UnjailPlayer(pid)
+end
+
+
+obviously below jail.require("jail")
+
+
+
+
 ]]--
 
 
