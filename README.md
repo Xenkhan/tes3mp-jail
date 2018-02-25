@@ -10,6 +10,6 @@
 -Custom jail cells to teleport to
 
 
-#How to install
+# How to install
 
 -Read the comments in jail.lua for more info. 
