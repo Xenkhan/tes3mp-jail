@@ -1,0 +1,17 @@
+{
+  "jailed":{
+  },
+  "jailData":{
+    "posx":249,
+    "cell":"Moonmoth Legion Fort, Prison Towers",
+    "posz":-127,
+    "posy":257
+  },
+  "jailRate":30,
+  "jailers":["John Doe"],
+  "jailMessage":{
+    "onunjail":"You have been unjailed. \n",
+    "onjail":"You have been jailed. \n",
+    "onleave":"You cannot leave when jailed! \n"
+  }
+}
