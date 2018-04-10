@@ -13,3 +13,5 @@
 # How to install
 
 -Read the comments in jail.lua for more info. 
+m
+i am kesuda not edgelord
